@@ -6,7 +6,7 @@ See the full website here: https://anaula.github.io/Fish-Info-Website/
 
 ## Website Page examples
 
-- Home Page
+- All Fish Page
 ![Website snapshot](/website-snapshots/snapshot1.PNG)
 
 - Fish Gallery Page when width of browser is significantly reduced
